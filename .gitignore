@@ -1,0 +1,27 @@
+# dependencies
+node_modules/
+vendor/
+
+# build output
+dist/
+build/
+*.zip
+
+# env / local config
+.env
+.env.*
+config.local.php
+
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# IDE / OS
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+desktop.ini
